@@ -1,0 +1,20 @@
+{
+  "packageId": "com.bdnmemorialsss.portal",
+  "host": "ais-pre-6iidhqvcvncprxovfhbcs7-545817244162.europe-west3.run.app",
+  "name": "Bishop Dunstan Nsubuga Memorial SSS Portal",
+  "launcherName": "BDN Portal",
+  "themeColor": "#064E3B",
+  "navigationColor": "#064E3B",
+  "backgroundColor": "#064E3B",
+  "enableNotifications": true,
+  "startUrl": "/?source=playstore",
+  "iconUrl": "/bdn-icon.jpg",
+  "maskableIconUrl": "/bdn-icon.jpg",
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "signing": {
+    "scheme": "v2"
+  },
+  "generatorApp": "Google Bubblewrap / PWABuilder",
+  "webManifestUrl": "/manifest.json"
+}

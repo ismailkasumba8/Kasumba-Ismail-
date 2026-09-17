@@ -1,0 +1,6 @@
+{
+  "name": "Bishop Dunstan Nsubuga Memorial SSS - Paperless Portal",
+  "description": "Paperless school database, administrator portal, teacher gradebook, and parent report lookup with BDN access codes for Bishop Dunstan Nsubuga Memorial SSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

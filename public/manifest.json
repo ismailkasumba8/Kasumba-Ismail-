@@ -1,0 +1,30 @@
+{
+  "id": "com.bdnmemorialsss.portal",
+  "name": "Bishop Dunstan Nsubuga Memorial SSS Portal",
+  "short_name": "BDN Portal",
+  "description": "Paperless continuous assessment grading, parent term report card access, and administrator management for Bishop Dunstan Nsubuga Memorial SSS.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone"],
+  "orientation": "portrait-primary",
+  "background_color": "#064e3b",
+  "theme_color": "#064e3b",
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/bdn-icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/bdn-icon.jpg",
+      "type": "image/jpeg",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ]
+}

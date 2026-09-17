@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bdnmemorialsss.portal",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:FC:02:8A:28:B4:4D:76:D5:AE:29:48:7A:B4:C6:65:D0:C3:54:19:D4:58:34:B3:9F:7F"
+      ]
+    }
+  }
+]
